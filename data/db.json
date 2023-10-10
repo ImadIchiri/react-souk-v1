@@ -1,0 +1,105 @@
+{
+  "commandes": [
+    {
+      "fruit_id": 0,
+      "snadek": "48",
+      "kg": "1200",
+      "price": "8.5",
+      "total": 9024,
+      "edited_price": 0,
+      "id": 1
+    },
+    {
+      "fruit_id": 1,
+      "snadek": "48",
+      "kg": "1200",
+      "price": "8.5",
+      "total": 9636,
+      "edited_price": "16",
+      "id": 2
+    },
+    {
+      "fruit_id": 2,
+      "snadek": "48",
+      "kg": "1200",
+      "price": "8.5",
+      "total": 9024,
+      "edited_price": 0,
+      "id": 3
+    },
+    {
+      "fruit_id": 0,
+      "snadek": "25",
+      "kg": "600",
+      "price": "8.5",
+      "total": 4487.5,
+      "edited_price": 0,
+      "id": 4
+    },
+    {
+      "fruit_id": 1,
+      "snadek": "35",
+      "kg": "750",
+      "price": "8.3",
+      "total": 5824.250000000001,
+      "edited_price": 0,
+      "id": 5
+    },
+    {
+      "fruit_id": 2,
+      "snadek": "34",
+      "kg": "1200",
+      "price": "8.5",
+      "total": 9367,
+      "edited_price": 1000,
+      "id": 6
+    },
+    {
+      "fruit_id": 1,
+      "snadek": "30",
+      "kg": "650",
+      "price": "8.5",
+      "total": 5172.5,
+      "edited_price": 0,
+      "id": 7
+    },
+    {
+      "fruit_id": 0,
+      "snadek": "30",
+      "kg": "1200",
+      "price": "7.5",
+      "total": 8355,
+      "edited_price": 0,
+      "id": 8
+    },
+    {
+      "fruit_id": 2,
+      "snadek": "3",
+      "kg": "70",
+      "price": "9",
+      "total": 552,
+      "edited_price": 0,
+      "id": 9
+    }
+  ],
+  "fruits": [
+    {
+      "id": 0,
+      "fruit_name": "APPLE",
+      "image_path": "apple_fruit",
+      "empty_box_weight_kg": 3
+    },
+    {
+      "id": 1,
+      "fruit_name": "GRAPE",
+      "image_path": "grapes_fruit",
+      "empty_box_weight_kg": 1.5
+    },
+    {
+      "id": 2,
+      "fruit_name": "PEAR",
+      "image_path": "pear_fruit",
+      "empty_box_weight_kg": 3
+    }
+  ]
+}
